@@ -16,8 +16,12 @@ We explain our day activity (morning, afternoon and night) making each pull and 
 
 ![Github FINAL 1](https://user-images.githubusercontent.com/59457964/196644656-1596132e-6bf8-42ba-94f4-b8f560400410.png)
 
-The collaboratory history is performed on Group_story.txt
 
-And the story performed by each integrant of the group is in Joan_Pau_Gutierrez_story.txt and Marc_Escobosa_story.txt
+
+The collaboratory history is performed on 'Group_story.txt'
+
+And the story performed by each integrant of the group is in 'Joan_Pau_Gutierrez_story.txt' and 'Marc_Escobosa_story.txt'
+
+
 
 Hope we did it right! 😉
