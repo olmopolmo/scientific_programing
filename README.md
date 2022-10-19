@@ -4,7 +4,7 @@ Repository to store the practicals of the subject scientific programing from MBD
 Hi there 👋 !
 
 
-The aim of this github is to create a short collaborative story for practicing with Git and GitHub. 
+The aim of this github project is to create a short collaborative story for practicing with Git and GitHub. 
 
 The group is composed by @Marc Olmo and @Joan Pau Gutiérrez, being Marc the leader.
 
